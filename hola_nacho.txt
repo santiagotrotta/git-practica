@@ -1,4 +1,8 @@
 Hola! todo bien?
 
+<<<<<<< HEAD
 
 arreglo falla
+=======
+Mi nombre es Ignacio
+>>>>>>> 7ad465d5f4ca2c9e3ad5c2e98a4ddbd106dd6a7b
